@@ -1,7 +1,8 @@
 ## Hello reader
 <img width="400" height="266" alt="6804734507_bf07478eff_w" src="https://github.com/user-attachments/assets/fdd61b0d-aba7-43a1-ac79-f2d80e5ed6cc" />
+(0_0)
+<!-- I like cars and boxing 
 
-<!-- I like cars and fishing 
 **Aryengoyan26/Aryengoyan26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
